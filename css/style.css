@@ -1,5 +1,5 @@
 td, th {
-  border: 2px dashed purple;
+  border: 2px dashed;
   border-collapse: collapse;
  
 }
@@ -7,7 +7,6 @@ td, th {
 th {
    font-size: 30pt;
    text-align:center;
-   border-color: purple;
    border-width: 2px;
    border-style: dashed;
 }
@@ -44,6 +43,12 @@ table {
     text-align: center; 
     border-collapse: collapse;
 }
+.top{
+  font-weight: bold;
+  font-size: 30pt;
+  font-family: "Times New Roman", Times, serif;
+  
+}
 
 .fact{
   font-weight: bold;
@@ -58,3 +63,11 @@ table {
   font-family: "Times New Roman", Times, serif;
   color: yellow;
 }
+
+.earth{
+  font-weight: bold;
+  font-size: 30pt;
+  font-family: "Times New Roman", Times, serif;
+  color: Blue;
+}
+  
