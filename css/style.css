@@ -1,6 +1,6 @@
 td, th {
-	border: 1px solid;
-  text-align: center;
+	border: 1px solid white;
+  border-collapse: collapse
  
 }
   
@@ -24,5 +24,6 @@ img {
 table {
     margin-left: auto;
     margin-right: auto;
+    display: block;
 }
 
