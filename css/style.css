@@ -5,7 +5,10 @@ td, th {
 }
 body {
   color: white;
-  background-image: url("/LAB-7/images/space.jpg");
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
   
 }
 
