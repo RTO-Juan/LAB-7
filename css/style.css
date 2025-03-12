@@ -68,3 +68,17 @@ table {
   color: Blue;
 }
   
+.saturn{
+  font-weight: bold;
+  font-size: 30pt;
+  font-family: "Times New Roman", Times, serif;
+  color: orange;
+}
+
+
+.mars{
+  font-weight: bold;
+  font-size: 30pt;
+  font-family: "Times New Roman", Times, serif;
+  color: #ffA500;
+}
