@@ -4,7 +4,9 @@ td, th {
   
 body {
   color: white;
-  background-color: #202020;
+  background-color: black;
+  background-image: url("../images/space.jpg");
+  
 }
 
 
