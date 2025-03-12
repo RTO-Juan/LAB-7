@@ -6,9 +6,13 @@ td, th {
 body {
   color: white;
   background-image: url("../images/background.png");
+  background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  padding: 0;
   
 }
 
