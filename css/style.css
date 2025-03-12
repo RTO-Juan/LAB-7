@@ -36,3 +36,8 @@ table {
     border-collapse: collapse;
 }
 
+.fact{
+  font-weight: bold;
+  font-size: 5pt;
+  
+}
