@@ -3,7 +3,6 @@ td, th {
   border-collapse: collapse
  
 }
-  
 body {
   color: white;
   background-image: url("/LAB-7/images/space.jpg");
@@ -22,8 +21,8 @@ img {
     object-fit: cover;
 }
 table {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    margin: auto;
+    text-align: center; 
+    border-collapse: collapse;
 }
 
