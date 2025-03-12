@@ -48,5 +48,13 @@ table {
 .fact{
   font-weight: bold;
   font-size: 30pt;
+  font-family: "Times New Roman", Times, serif;
   
+}
+
+.jupiter{
+  font-weight: bold;
+  font-size: 30pt;
+  font-family: "Times New Roman", Times, serif;
+  color: yellow;
 }
