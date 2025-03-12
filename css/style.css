@@ -1,6 +1,6 @@
 td, th {
-	border: 1px solid white;
-  border-collapse: collapse
+  border: 2px dashed purple;
+  border-collapse: collapse;
  
 }
 
